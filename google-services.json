@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "396220669769",
+    "firebase_url": "https://magicwords-c982e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "magicwords-c982e",
+    "storage_bucket": "magicwords-c982e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396220669769:android:18f195380254fb1745c498",
+        "android_client_info": {
+          "package_name": "com.example.magicwordsgameteplishchev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396220669769-jcchnj2a6kal1pkucqismgsqv4e3stat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdA_8d64Oc_AEo3qNPI8CYxsFjC2UY3ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396220669769-jcchnj2a6kal1pkucqismgsqv4e3stat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
